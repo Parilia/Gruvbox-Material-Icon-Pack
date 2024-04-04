@@ -18,8 +18,10 @@ Icons were created with the thought of dark backgrounds, so it's recommend to us
 Download
 --------
 
-    ``` git clone https://github.com/Parilia/Gruvbox-Material-Icon-Pack.git ```
-
+    ``` 
+    git clone https://github.com/Parilia/Gruvbox-Material-Icon-Pack.git 
+    ```
+
     **WARNING**: Do not use "Download ZIP" button. Compression applied there will remove soft links of the icons, which will ruin big part of the pack.
 
 Installation
