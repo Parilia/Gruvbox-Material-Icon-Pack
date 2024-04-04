@@ -27,17 +27,7 @@ Installation
 
 copy content of the folder to Your home/.local/share/icons/ directory.
 
-``` cp -vr Gruvbox-Material-Icons ~/.local/share/icons ```
-
-or soft link git repository:
-
-``` ln -s path/to/repository/Gruvbox-Material-Icons ~/.local/share/icons/Gruvbox-Material-Icons ```
-
-You could then just use
-
-``` git pull ```
-
-to download files added since the latest pull.
+``` cp -vr /Gruvbox-Material-Icon-Pack/Gruvbox-Material-Icons ~/.local/share/icons ```
 
 
 
