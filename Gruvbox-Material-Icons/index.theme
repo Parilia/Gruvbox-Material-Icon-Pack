@@ -1,9 +1,5 @@
 # Icon Theme Profile
 
-# Gruvbox Material Plus icon set is developed by:
-# - Roobie Hay (Parilia) https://github.com/Parilia
-# - under GPL3
-
 # Gruvbox Plus icon set is developed by:
 # - Sylwia Ptasinska
 # - under GPL3
@@ -45,10 +41,10 @@
 # - Pavel Pertsev <https://github.com/morhetz/gruvbox>
 
 [Icon Theme]
-Name=Gruvbox Material
-Comment=Icon pack with gruvbox material colors for dark themes
+Name=Gruvbox Plus Dark
+Comment=Icon pack with gruvbox colors for dark themes
 
-Inherits=Breeze Dark, gnome, hicolor
+Inherits=breeze-dark, hicolor
 
 Example=folder
 
